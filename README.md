@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=suleizelsevim&show_icons=true&theme=radical)
+
+
+### This week I spent my time on;
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Ari&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
